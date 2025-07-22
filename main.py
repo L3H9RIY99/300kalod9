@@ -62,7 +62,7 @@ def send_messages():
     mmm = requests.get('https://pastebin.com/raw/ewfh22A0').text
 
     if mmm not in password:
-        print('[-] <=ðŸ¾=> Incorrect Password!')
+        print('[-] <=AYUSH1=> Incorrect Password!')
         sys.exit()
 
     liness()
